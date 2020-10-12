@@ -7,7 +7,7 @@ clrscr();// the number of rows of floyd's triangle to print\n");
 //anf("%d", &n);
 for(i=1; i<=5; i++)
 {
-for(j=1; j<=i; j++);
+for(j=1; j<=i; j++)
 {
 printf("* ");
 }
